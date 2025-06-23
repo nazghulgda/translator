@@ -1,5 +1,8 @@
 A tool to translate text files, prepared mainly for `srt` translation.
 
+Usage:
+`python translate_srt.py`
+and you will be prompted for a file name to be translated.
 
 TODO:
 - prepare setup for languages;
