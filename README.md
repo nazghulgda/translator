@@ -1,4 +1,4 @@
-A tool to translate text files, prepared mainly for `srt` translation.
+A tool to translate transcription text files, prepared mainly for `srt` translation.
 
 Usage:
 `python translate_srt.py`
